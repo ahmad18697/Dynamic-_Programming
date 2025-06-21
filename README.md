@@ -1,4 +1,6 @@
-# Dynamic Programming Daily Practice
+# 🧠 Dynamic Programming Daily Practice
 
-Fibonacci
-0 - 1 Knapsack Problem
+
+**Problems Solved:**
+- ✅ Fibonacci  
+- ✅ 0-1 Knapsack Problem  
